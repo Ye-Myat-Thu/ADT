@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/User/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/WBP_RadialMeterBar.uasset",
+				"C:/Users/User/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"C:/Users/User/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/VehicleUI.uasset",
 				"C:/Users/yemya/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
 				"C:/Users/yemya/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/WBP_StartMeter.uasset",
 				"C:/Users/yemya/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset",
