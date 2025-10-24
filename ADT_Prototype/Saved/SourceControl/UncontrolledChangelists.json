@@ -5,15 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/yemya/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
-				"C:/Users/yemya/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/WBP_StartMeter.uasset",
-				"C:/Users/yemya/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset",
-				"C:/Users/yemya/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/WBP_RadialMeterBar.uasset",
 				"C:/Users/c2507419/Documents/GitHub/ADT/ADT_Prototype/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/c2507419/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
 				"C:/Users/c2507419/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset",
 				"C:/Users/c2507419/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/SimSpeed_BPI.uasset",
-				"C:/Users/c2507419/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/VehicleUI.uasset"
+				"C:/Users/c2507419/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/VehicleUI.uasset",
+				"C:/Users/c2507419/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/WBP_ArrowMatch.uasset",
+				"C:/Users/c2507419/Documents/GitHub/ADT/ADT_Prototype/Content/UI/Button_-_PS_Directional_Arrow_Down.uasset",
+				"C:/Users/c2507419/Documents/GitHub/ADT/ADT_Prototype/Content/UI/Button_-_PS_Directional_Arrow_Left.uasset",
+				"C:/Users/c2507419/Documents/GitHub/ADT/ADT_Prototype/Content/UI/Button_-_PS_Directional_Arrow_Right.uasset",
+				"C:/Users/c2507419/Documents/GitHub/ADT/ADT_Prototype/Content/UI/Button_-_PS_Directional_Arrow_Up.uasset",
+				"C:/Users/yemya/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"C:/Users/yemya/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/WBP_StartMeter.uasset",
+				"C:/Users/yemya/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset",
+				"C:/Users/yemya/Documents/GitHub/ADT/ADT_Prototype/Content/VehicleTemplate/Blueprints/WBP_RadialMeterBar.uasset"
 			]
 		}
 	]
